@@ -14,3 +14,11 @@
 # mod		取余、模组
 # ascending order		升序
 # contains		包含
+# contest		竞赛
+# bubble		气泡
+# bubble sort		冒泡排序
+# generating		生成
+# standing		站立
+# standings		榜
+# exactly		确切的
+# in descending order		降序
