@@ -25,3 +25,10 @@
 # Reverse Root		反根
 # stream		流动
 # blank line 		空白行
+# request		n.要求；需要；申请书   v.（下级对上级的）请求;请求得到;索取;邀请[常接不定式或从句]
+# denote		表示
+# in specified order		在指定顺序
+# costs		花费（时间），耗时
+# the total time		总时间
+# fulfill		到达，完成
+# multiple		多重的；多个的
