@@ -22,3 +22,6 @@
 # standings		榜
 # exactly		确切的
 # in descending order		降序
+# Reverse Root		反根
+# stream		流动
+# blank line 		空白行
