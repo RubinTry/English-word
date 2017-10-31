@@ -32,3 +32,4 @@
 # the total time		总时间
 # fulfill		到达，完成
 # multiple		多重的；多个的
+# triangle		三角形
