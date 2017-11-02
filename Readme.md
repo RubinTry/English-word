@@ -33,3 +33,14 @@
 # fulfill		到达，完成
 # multiple		多重的；多个的
 # triangle		三角形
+# award		奖
+# novel Water Margin		水浒传
+# it seems to be		这似乎
+# convince		说服
+# expected		预期的
+# indicating		表示、指示、要求
+# intersectant		交叉的
+# vertex		n.顶点
+# parabola		抛物线
+# several		若干
+
