@@ -45,3 +45,4 @@
 # several		若干
 # archaeologists        考古学家
 # indicate              表示
+# inch                  英寸
