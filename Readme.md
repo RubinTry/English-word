@@ -46,3 +46,4 @@
 # archaeologists        考古学家
 # indicate              表示
 # inch                  英寸
+# Three hands of the clock  时钟的三个指针
